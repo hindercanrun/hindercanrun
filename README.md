@@ -5,7 +5,6 @@
 <li> I'm a Call of Duty World at War mapper. </li>
 <li> I'm usally just mapping on World at War. </li>
 <li> I am developing T4R, a project that enchances World at War, with all new campaign levels, guns and more. </li>
-<li>I started working on my own <a href="https://github.com/momo5502/hypervisor">hypervisor</a> to assist with reverse engineering</li>
 </ul>
 
 <br>
