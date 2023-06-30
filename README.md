@@ -1,18 +1,17 @@
-<img align="right" width="240" src="https://user-images.githubusercontent.com/109132519/218298779-276116ec-e3da-4892-83ea-daaef9cdcbb2.png" />
-<h2>Hello, I am hindercanrun</h2>
-<ul>
-<br>
-<li> I'm a Call of Duty World at War mapper. </li>
-<li> I'm usally just mapping on World at War. </li>
-<li> I am developing T4R, a project that enchances World at War, with all new campaign levels, guns and more. </li>
-</ul>
+<h1 align="right">Hello, I am hinder</h3>
+
+<img align="left" width="240" src="https://user-images.githubusercontent.com/109132519/218298779-276116ec-e3da-4892-83ea-daaef9cdcbb2.png" />
+
+<p align="right">
+I am write code in C++ and mess around with the IW4 engine.
+</p>
 
 <br>
-
-<h2> You can Find me on: </h2>
-
-<li> Plutonium - https://forum.plutonium.pw/user/hindercanrun </li>
-<li> Github:   - https://github.com/hindercanrun </li>
-<li> Discord:  - hinder#7798 </li>
+<div align="right" markdown="1">
+I am working on a seeeecret project with Maths
 <br>
-I do not have Twitter, Instagram, Snapchat or TikTok unless otherwise stated, so if you see a profile that looks like mine, it is an impersonator.
+
+<br>
+<div align="right" markdown="1">
+I do not have Twitter, Instagram, Snapchat or TikTok unless otherwise stated, so if you see a profile that claims to be me, it is an impersonator.
+<br>
