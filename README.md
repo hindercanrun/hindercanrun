@@ -3,13 +3,8 @@
 <img align="left" width="240" src="https://user-images.githubusercontent.com/109132519/218298779-276116ec-e3da-4892-83ea-daaef9cdcbb2.png" />
 
 <p align="right">
-I am write code in C++ and mess around with the IW4 engine.
+I mess around with the IW3 & IW4 engine.
 </p>
-
-<br>
-<div align="right" markdown="1">
-I am working on a seeeecret project with Maths
-<br>
 
 <br>
 <div align="right" markdown="1">
