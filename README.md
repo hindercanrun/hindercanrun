@@ -3,7 +3,7 @@
 <img align="left" width="240" src="https://user-images.githubusercontent.com/109132519/218298779-276116ec-e3da-4892-83ea-daaef9cdcbb2.png" />
 
 <p align="right">
-I mod the IW 4.0 engine.
+I mod the IW4 and T6 engine.
 </p>
 
 <br>
