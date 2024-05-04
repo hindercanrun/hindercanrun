@@ -1,5 +1,5 @@
 <p align="left">
-I'm a Duck and I mod the IW4 and T6 engine.
+I'm a Duck and I mod the T6 engine.
 </p>
 
 ## 🏆GitHub Trophies
