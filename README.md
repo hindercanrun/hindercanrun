@@ -1,5 +1,5 @@
 <p align="left">
-I'm a Duck and I mod the T6 engine.
+BO2 and Dying Light 1 modder I suppose
 </p>
 
 ## 🏆GitHub Trophies
